@@ -1,0 +1,2 @@
+Es una aplicaccion para poder obtener imagenes mediante una api gratuita la cual hacemos la consulta correspondiente hacia el servidor que mediante la api nos genera la consulta necesaria para obtener la imagen random de un perrrito esto sucede cada ve que nosotros apretamos el boton correspondiente
+<img width="394" height="666" alt="image" src="https://github.com/user-attachments/assets/3540dfed-5e09-4e52-9fe5-734868b9fff9" />
